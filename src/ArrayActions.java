@@ -4,6 +4,9 @@ public class ArrayActions {
 
 	public void some(){
 		System.out.println("local");
+
+	public void some(){
+		System.out.println("remote");
 	}
 	public static void main(String[] args) {
 		
